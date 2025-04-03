@@ -60,3 +60,4 @@ changes.
 Without doing anything after updating the code the changes getting reflected
 automatically.
 # GitHub Repository: https://github.com/souravhajra123/Holi
+images/image.txt
