@@ -7,6 +7,7 @@ About: A web page to wish Happy Holi.
 Services & Tools Used: AWS, EC2, GitHub, Ansible, Jenkins, Docker.
 Workflow: Continuously fetch code from GitHub and deploy over EC2 server by
 containerizing it using Docker on Jenkins platform.
+
 Solution:
 1. Create a GitHub repository containing the the code and necessary files.
 2. Launch two EC2 instances(ubuntu, t2.micro), one will work as master and other
