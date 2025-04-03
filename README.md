@@ -60,4 +60,4 @@ changes.
 Without doing anything after updating the code the changes getting reflected
 automatically.
 # GitHub Repository: https://github.com/souravhajra123/Holi
-images/image.txt
+https://github.com/souravhajra123/Holi/blob/bc0a9ec83db846959d9d8bdd4ccb3b8f2e07c195/images/image.txt
